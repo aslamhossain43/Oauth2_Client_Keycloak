@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Oauth2ClientKeycloakApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Oauth2ClientKeycloakApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Oauth2ClientKeycloakApplication.class, args);
+    }
+
 
 }
